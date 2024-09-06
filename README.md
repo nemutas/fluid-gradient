@@ -1,5 +1,7 @@
 # About
 
+低解像度のsimulationを、blurを使って誤魔化す。
+
 Inspired by [EarCOUTUER](https://earcouture.jp/) footer.
 
 https://nemutas.github.io/fluid-gradient/
