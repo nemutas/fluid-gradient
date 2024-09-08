@@ -1,7 +1,9 @@
 # About
 
-Inspired by [Little Red Riding Hood](https://ai-quest.lusion.co/).
+低解像度のsimulationを、blurを使って誤魔化す。
+
+Inspired by [EarCOUTUER](https://earcouture.jp/) footer.
 
 https://nemutas.github.io/fluid-gradient/
 
-<img src='https://github.com/user-attachments/assets/89e29a04-553a-412e-9a8f-6c7bad284214' alt='' width='700' />
+<img src='https://github.com/user-attachments/assets/f41b6344-8ab8-4af0-8fee-6b818825382a' alt='' width='700' />
